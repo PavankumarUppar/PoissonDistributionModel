@@ -21,3 +21,10 @@ Here's an example of how to use the function:
 
 ```python
 poisson_pmf(k=10, lambda_val=5)
+
+## Dependencies
+
+The code uses the following Python libraries:
+1. Numpy
+2. Matplotlib
+3. SciPy
